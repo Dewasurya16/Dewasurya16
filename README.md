@@ -9,7 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewasurya16" alt="dewasurya16" /></a> </p>
 
 <img align ="right" alt="coding" width="400"   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
-- 🌱 I’m currently learning **Deep Learning And Machine Learning**
+
+- 🌱 I’m currently learning Deep Learning And Machine Learning
 
 - 👯 I’m looking to collaborate on [Kenopia](https://github.com/Dewasurya16/Website-kenopia-)
 
