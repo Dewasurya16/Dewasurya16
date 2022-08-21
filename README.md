@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning Deep Learning And Machine Learning
 
-- 👯 I’m looking to collaborate on [Kenopia](https://github.com/Dewasurya16/Website-kenopia-)
+- 👯 I’m looking to collaborate on [Kenopia AI](https://github.com/Dewasurya16/Website-kenopia-)
 
-- 👨‍💻 All of my projects are available at [https://dewasuryaporto.online/](https://dewasuryaporto.online/)
+- 👨‍💻 All of my projects are available at [MY Portofolio](https://dewasuryaporto.online/)
 
 - 💬 Ask me about **Python, AI,**
 
