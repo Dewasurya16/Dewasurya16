@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Dewa Sinar Surya</h1>
 <h3 align="center">A passionate Machine Learning And Data Scientist From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewasurya16&label=Profile%20views&color=0e75b6&style=flat" alt="dewasurya16" /> </p>
 
 
 <img align ="right" alt="coding" width="400"   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
