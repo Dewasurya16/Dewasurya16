@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Dewasinar16@gmail.com**
 
-- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1M-8l4X6Q6HJL19X6So076hDQOKiLehoM/view?usp=sharing)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1amCSQoJIgguwT8JUte-mkwickp7CbCEE/view?usp=sharing)
 
 - ⚡ Fun fact **I think Im Funny and Humoris**
 
